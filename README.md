@@ -21,4 +21,5 @@ Download the files and run index.html to play the game, or simply visit the foll
   <li>Game physics isn't very perfect as i used a simple collision detection algorithm</li>
   <li>There is no drag and aim feature as in the original game, so playes need to just aim and shoot exactly where they want</li>
   <li>Game sound doesn't play in cell-phones</li>
+  <li>Game isn't responsive so you need to adjust the screen before playing it in smaller devices</li>
 </ul>
