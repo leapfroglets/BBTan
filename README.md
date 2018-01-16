@@ -1,6 +1,6 @@
 # BBTAN
 
-<p><strong>BBTAN</strong>is a classic aim and smash game where our main goal is to destroy each and every obstacle. Each obstacle has a counter specifying how many times the obstacle needs to be hit to destroy it. I'd like to think we've all played it at some point. It's physics based game where angle is the key. I built this game using pure Javascript(ES6) and HTML5 Canvas during my internship. 
+<p><strong>BBTAN</strong> is a classic aim and smash game where our main goal is to destroy each and every obstacle. Each obstacle has a counter specifying how many times the obstacle needs to be hit to destroy it. I'd like to think we've all played it at some point. It's physics based game where angle is the key. I built this game using pure Javascript(ES6) and HTML5 Canvas during my internship. 
 </p>
 
 Download the files and run index.html to play the game, or simply visit the following link.<br/>
