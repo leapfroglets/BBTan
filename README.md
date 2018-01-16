@@ -4,7 +4,7 @@
 </p>
 
 Download the files and run index.html to play the game, or simply visit the following link.<br/>
-https://drop039beats.github.io/js-experiments/BBTAN/
+https://cdn.rawgit.com/leapfroglets/BBTan/master/index.html
 
 ## How to play?
 <p>
