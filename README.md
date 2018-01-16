@@ -1,6 +1,6 @@
 # BBTAN
 
-<p>** BBTAN ** is a classic aim and smash game where our main goal is to destroy each and every obstacle. Each obstacle has a counter specifying how many times the obstacle needs to be hit to destroy it. I'd like to think we've all played it at some point. It's physics based game where angle is the key. I built this game using pure Javascript(ES6) and HTML5 Canvas during my internship. 
+<p><strong>BBTAN</strong>is a classic aim and smash game where our main goal is to destroy each and every obstacle. Each obstacle has a counter specifying how many times the obstacle needs to be hit to destroy it. I'd like to think we've all played it at some point. It's physics based game where angle is the key. I built this game using pure Javascript(ES6) and HTML5 Canvas during my internship. 
 </p>
 
 Download the files and run index.html to play the game, or simply visit the following link.<br/>
@@ -8,7 +8,7 @@ https://drop039beats.github.io/js-experiments/BBTAN/
 
 ## How to play?
 <p>
-  Help BBTAN destory each and every obstacle before the obstacles reach him. BBTAN has limited number of balls which he can use to smash the obstacle. There are also power-ups which help BBTAN destory the obstacles by changing the trajectory of the moving ball or just trigger a laser to destroy the objects. Remember the shooting *** angle *** and *** direction *** is the key to beating this game. With every level the obstacle counter increases requiring the same number of hits as the counter, each obstacle has its own counter. 
+  Help BBTAN destory each and every obstacle before the obstacles reach him. BBTAN has limited number of balls which he can use to smash the obstacle. There are also power-ups which help BBTAN destory the obstacles by changing the trajectory of the moving ball or just trigger a laser to destroy the objects. Remember the shooting <u>angle</u> and <u>direction</u> is the key to beating this game. With every level the obstacle counter increases requiring the same number of hits as the counter, each obstacle has its own counter. 
 </p>
 
 ## Controls:
